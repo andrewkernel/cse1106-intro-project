@@ -6,6 +6,6 @@
 
 ## Git Clone
 
-## I learned hwo to use Git and GitHub
+## I learned how to use Git and GitHub
 
 ## By definitely adding real code to the project
