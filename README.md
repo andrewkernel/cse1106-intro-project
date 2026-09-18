@@ -1,11 +1,16 @@
-# cse1106-intro-project
+# Project Title: cse1106-intro-project
 
-## This is an introduction to Git and GitHub at UTA's CSE1106 lab
+## Description
+This is an introduction to Git and GitHub at UTA's CSE1106 lab
 
-## The technologies used here were VS Code, Git, and GitHub
+## Technologies
+The technologies used here were VS Code, Git, and GitHub
 
-## Git Clone
+## How to Run
+Git Clone
 
-## I learned how to use Git and GitHub
+## What I Learned
+I learned how to use Git and GitHub
 
-## By definitely adding real code to the project
+## Future Improvements 
+By definitely adding real code to the project
